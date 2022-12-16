@@ -1,5 +1,5 @@
 {
-	"name": "unreal4u/telegram-api",
+	"name": "xitara/telegram-api",
 	"description": "A complete Telegram bot API implementation written in PHP, with support for inline bots!",
 	"keywords": [
 		"Telegram",
