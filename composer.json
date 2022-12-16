@@ -16,7 +16,6 @@
 	"require": {
 		"php": ">=7.0.0",
 		"ext-json": "*",
-		"xitara/dummy-logger": "dev-master",
 		"react/http-client": "^0.5",
 		"react/promise": "^2.7",
 		"clue/block-react": "^1.3",
